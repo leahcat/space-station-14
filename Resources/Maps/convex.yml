@@ -29301,14 +29301,6 @@ entities:
     - type: Transform
       pos: 101.46009,28.48259
       parent: 1
-- proto: Brutepack10Lingering
-  entities:
-  - uid: 17677
-    components:
-    - type: Transform
-      rot: -31.415926535897945 rad
-      pos: 71.46992,94.604095
-      parent: 1
 - proto: Bucket
   entities:
   - uid: 21617
